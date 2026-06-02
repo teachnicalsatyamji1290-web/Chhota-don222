@@ -3,7 +3,7 @@ module.exports.config = {
   name: "goibot",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "𝐒𝐡𝐚𝐚𝐧 𝐊𝐡𝐚𝐧",
+  credits: "Chhota Don",
   description: "goibot",
   commandCategory: "Noprefix",
   usages: "noprefix",
@@ -239,9 +239,9 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
 ❖•S━━━━━💞━━━━━A•❖,
 
 
-${rand}                                        
-
-𝗖𝗿𝗲𝗱𝗶𝘁𝘀:𒁍≛⃝𝑺𝑯𝑨𝑨𝑵 𝑲𝑯𝑨𝑵 𝑲 ❥||ㅎ
+${rand}
+छोटा डान हाजिर है 😎😎
+𝗖𝗿𝗲𝗱𝗶𝘁𝘀:𒁍Chhota Don
 
 ❖•S━━━━━💞━━━━━A•❖`
   }
