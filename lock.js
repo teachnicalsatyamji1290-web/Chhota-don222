@@ -6,7 +6,7 @@ module.exports.config = {
   name: "lock",
   version: "2.5.0",
   hasPermssion: 1,
-  credits: "Shaan",
+  credits: "chhota Don",
   description: "Strictly lock Group Name, Photo, Nicknames, Theme and Emoji",
   commandCategory: "group",
   usages: "[name/photo/nickname/theme/all/off]",
@@ -51,7 +51,7 @@ module.exports.run = async function ({ api, event, args }) {
     // All ya Name Lock logic
     if (action === "all" || action === "name") {
       global.lockData[threadID].name = info.threadName;
-      status.push("Name 🔒");
+      status.push("Beta ab group ka naam change karke dikha 🔒");
     }
 
     // All ya Photo Lock logic
@@ -68,7 +68,7 @@ module.exports.run = async function ({ api, event, args }) {
     // All ya Nickname Lock logic
     if (action === "all" || action === "nickname") {
       global.lockData[threadID].nicknames = info.nicknames;
-      status.push("Nicknames 🔒");
+      status.push("Satyam pandey 🔒");
     }
 
     // All ya Theme/Emoji Lock logic
