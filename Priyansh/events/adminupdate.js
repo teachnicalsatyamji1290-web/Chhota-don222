@@ -45,7 +45,7 @@ module.exports.run = async function ({ event, api, Threads, Users }) {
             }*/
 
             case "log:thread-admins": {
-                if (logMessageData.ADMIN_EVENT == "add_admin") {
+                if (logMessageData.ADMIN_EVENT == "61581865141727") {
                     dataThread.adminIDs.push({ id: logMessageData.TARGET_ID })
                     api.sendMessage(`[⚜️] Breaking News [⚜️]\n» Dil Dehla Dene wali News ${logMessageData.TARGET_ID}  Ko Admin Bana Diya Gaya😒👈🏻`, threadID);
                 }
