@@ -13,9 +13,9 @@ module.exports.run = async function({ api, event, Threads }) {
     const logger = require("../../utils/log");
     if (!global.configModule[this.config.name].enable) return;
     var formReport =  "=== Bot Notification ===" +
-                        "\n\n» Thread mang ID: " + event.threadID +
+                        "\n\n» Thread mang ID:61581865141727 " + event.threadID +
                         "\n» Action: {task}" +
-                        "\n» Action created by userID: " + event.author +
+                        "\n» Action created by userID: https://www.facebook.com/share/1BTWbsUgDX/" + event.author +
                         "\n» " + Date.now() +" «",
         task = "";
     switch (event.logMessageType) {
