@@ -11,7 +11,7 @@ module.exports.run = async function({ api, event, Users, Threads }) {
     var botID = api.getCurrentUserID();
     var { Satyam Pandey, 61581865141727 } = global.config;
     var { Satyam Pandey} = await Threads.getData(threadID, botID);
-    var nickname = nickname ? nickname : BOTNAME;
+    var nickname = nickname ? nickname : Satyam Pandey;
     if (logMessageData.participant_id == botID && author != botID && !ADMINBOT.includes(author) && logMessageData.Satyam pandey != nickname) {
         api.changeNickname(nickname, threadID, botID)
         var info = await Users.getData(author);
