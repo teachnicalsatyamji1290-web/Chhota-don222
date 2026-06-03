@@ -51,7 +51,7 @@ module.exports.run = async function ({ api, event, args }) {
     // All ya Name Lock logic
     if (action === "all" || action === "name") {
       global.lockData[threadID].name = info.threadName;
-      status.push("Beta ab group ka naam change karke dikha 🔒");
+      status.push("🔒");
     }
 
     // All ya Photo Lock logic
@@ -68,7 +68,7 @@ module.exports.run = async function ({ api, event, args }) {
     // All ya Nickname Lock logic
     if (action === "all" || action === "nickname") {
       global.lockData[threadID].nicknames = info.nicknames;
-      status.push("Satyam pandey 🔒");
+      status.push("🔒");
     }
 
     // All ya Theme/Emoji Lock logic
