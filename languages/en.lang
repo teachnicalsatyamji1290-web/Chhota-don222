@@ -59,14 +59,14 @@ users.needObject=Have to be an Object
 
 # includes/handle/handleCommand.js
 
-handleCommand.userBanned=⛔️~𝐓𝐔 𝐁𝐀𝐍𝐍𝐄𝐃 𝐇𝐀𝐈 𝐑𝐄 𝐓𝐔𝐓𝐈6𝐀 🤭!~🚫\n%1\n%2\n𝐂𝐎𝐍𝐓𝐀𝐂𝐓 = 𝐎𝐖𝐍𝐄𝐑➻   💐𝐒𝐇𝐀𝐀𝐍💐  🖤 𝐅𝐎𝐑 𝐔𝐍𝐁𝐀𝐍 ⚠️
-handleCommand.threadBanned=⛔️𝐘𝐎𝐔𝐑/𝐁𝐎𝐗/𝐆𝐑𝐎𝐔𝐏 𝐇𝐀𝐒 𝐁𝐄𝐄𝐍 𝐁𝐀𝐍𝐍𝐄𝐃!⛔️\n%1\n%2 𝐏𝐋𝐄𝐀𝐒𝐑 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 = 𝐎𝐖𝐍𝐄𝐑➻    🌹💐𝐒𝐇𝐀𝐀𝐍💐🌹 𝐅𝐎𝐑 𝐔𝐍𝐁𝐀𝐍 ⚠️
-handleCommand.commandNotExist=𝐒𝐀𝐇𝐈 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐊𝐄 𝐋𝐈𝐄𝐘 𝐎𝐖𝐍𝐄𝐑 𝐒𝐇𝐀𝐀𝐍 𝐑𝐀𝐁𝐓𝐀 𝐊𝐀𝐑𝐎 𝐘𝐄 𝐋𝐎 WhatsApp  👉03368783346👈%1 ? 🙄
+handleCommand.userBanned=⛔️~𝐓𝐔 𝐁𝐀𝐍𝐍𝐄𝐃 𝐇𝐀𝐈 𝐑𝐄 𝐓𝐔𝐓𝐈6𝐀 🤭!~🚫\n%1\n%2\n𝐂𝐎𝐍𝐓𝐀𝐂𝐓 = 𝐎𝐖𝐍𝐄𝐑➻   💐𝐒𝐀𝐓𝐘𝐀𝐌💐  🖤 𝐅𝐎𝐑 𝐔𝐍𝐁𝐀𝐍 ⚠️
+handleCommand.threadBanned=⛔️𝐘𝐎𝐔𝐑/𝐁𝐎𝐗/𝐆𝐑𝐎𝐔𝐏 𝐇𝐀𝐒 𝐁𝐄𝐄𝐍 𝐁𝐀𝐍𝐍𝐄𝐃!⛔️\n%1\n%2 𝐏𝐋𝐄𝐀𝐒𝐑 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 = 𝐎𝐖𝐍𝐄𝐑➻    🌹💐𝐒𝐀𝐓𝐘𝐀𝐌💐🌹 𝐅𝐎𝐑 𝐔𝐍𝐁𝐀𝐍 ⚠️
+handleCommand.commandNotExist=𝐒𝐀𝐇𝐈 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐊𝐄 𝐋𝐈𝐄𝐘 𝐎𝐖𝐍𝐄𝐑 𝐒𝐀𝐓𝐘𝐀𝐌 𝐊𝐎 𝐌𝐀𝐒𝐒𝐀𝐆𝐄 𝐊𝐀𝐑𝐎 𝐘𝐄 𝐋𝐎 WhatsApp  👉7007349948👈%1 ? 🙄
 handleCommand.commandThreadBanned=Your thread is unable to use command "%1"
 handleCommand.commandUserBanned=You are unable to use command "%1"
 handleCommand.threadNotAllowNSFW=Your thread is not allowed to use NSFW commands
 handleCommand.cantGetInfoThread=Can't get your thread's info, error: %1
-handleCommand.permssionNotEnough=💐𝐌𝐄𝐑𝐈 𝐉𝐀𝐀𝐍 𝐘𝐄𝐇 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐒𝐈𝐑𝐅 𝐌𝐄𝐑𝐄 𝐁𝐎𝐒𝐒 𝐒𝐇𝐀𝐀𝐍 𝐊𝐎 𝐇𝐈 𝐀𝐋𝐋𝐎𝐖 𝐇𝐀𝐈💐✋❌ "%1"
+handleCommand.permssionNotEnough=💐𝐌𝐄𝐑𝐈 𝐉𝐀𝐀𝐍 𝐘𝐄𝐇 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐒𝐈𝐑𝐅 𝐌𝐄𝐑𝐄 𝐁𝐎𝐒𝐒 𝐒𝐀𝐓𝐘𝐀𝐌 𝐊𝐎 𝐇𝐈 𝐀𝐋𝐋𝐎𝐖 𝐇𝐀𝐈💐✋❌ "%1"
 handleCommand.cantSetMessageReaction=Having some unexpected error at setMessageReaction, error: %1
 handleCommand.executeCommand=[ %1 ] Command used: %2 by user: %3 at thread: %4 | Args included: %5 | Processing time: %6ms
 handleCommand.commandError=Having some unexpected error when using command %1, error: %2
